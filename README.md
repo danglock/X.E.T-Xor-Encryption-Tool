@@ -1,4 +1,4 @@
-# X.E.T-Xor-Encryption-Tool
+# Xor Encryption Tool
 
 ## Installation
 ```
